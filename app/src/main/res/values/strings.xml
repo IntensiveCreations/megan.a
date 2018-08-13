@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project M</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">953634268099794</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb953634268099794</string>
+    <string name="title_activity_profile">Profile</string>
+
+</resources>
